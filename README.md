@@ -75,8 +75,8 @@ src="https://img.shields.io/twitter/follow/philip_d21?logo=twitter&style=for-the
 ---
 
 
-| <a href="http://www.github.com/Philip-D21"><img src="https://github-readme-stats.vercel.app/api?username=Philip-D21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true&custom_title=My%20%GitHub%20%stats" alt="GitHub stats" /></a> | <a href="https://github.com/Philip-D21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philip-D21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
-| ------- | ------- |
+<!-- | <a href="http://www.github.com/Philip-D21"><img src="https://github-readme-stats.vercel.app/api?username=Philip-D21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true&custom_title=My%20%GitHub%20%stats" alt="GitHub stats" /></a> | <a href="https://github.com/Philip-D21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philip-D21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> |
+| ------- | ------- | -->
 
 
 
