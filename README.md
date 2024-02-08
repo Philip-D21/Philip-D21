@@ -69,7 +69,7 @@ src="https://img.shields.io/twitter/follow/philip_d21?logo=twitter&style=for-the
 - 💡 Fun fact: Bagged Diploma in Software Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Go, and Python (Django).
 - 💻 I used these tech stack NodeJS , Typescript, NestJS.
-- 😊 I’m looking for help with open source projects, hackathons, internships, entry-level opportunities , and Junior role.
+- 😊 I’m looking for jobs with open source projects, hackathons, internships, entry-level , and Junior opportunities role.
 - 💼 Job interests: Software Engineer, Backend Developer.
 - 📫 You can contact me by emailing philiplekan88@gmail.com.
 
