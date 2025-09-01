@@ -12,8 +12,8 @@
 - 🎓 Diploma in Software Engineering from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) (Class of 2022)  
 - 🌱 Currently learning **Go** and **Python (Django)**  
 - 💻 Tech Stack: **Node.js**, **TypeScript**, **NestJS**, **MySQL**, **Redis**, **Kafka**  
-- 💡 Interests: Open Source, Hackathons, Internships, Entry-Level & Junior Developer roles  
-- 💼 Career Goals: **Backend Developer** / **Software Engineer**  
+- 💡 Interests: Open Source, Hackathons, Internships, Junior & Mid-level Developer roles  
+- 💼 Career Goals: **Backend Developer** / **Software Engineer**  / **DevOps** / **SRE**
 - 📫 Contact: [philiplekan88@gmail.com](mailto:philiplekan88@gmail.com)  
 
 ---
