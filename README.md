@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍💻 About Me<br><br>- 😊 Pronouns: He/Him  <br>- 🎓 Diploma in Software Engineering from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) (Class of 2022)  <br>- 🌱 Currently learning **Go** and **Python (Django)**  <br>- 💻 Tech Stack: **Node.js**, **TypeScript**, **NestJS**, **MySQL**, **Redis**, **Kafka**  <br>- 💡 Interests: Open Source, Hackathons, Internships, Junior & Mid-level Developer roles  <br>- 💼 Career Goals: **Backend Developer** / **Software Engineer**  / **DevOps** / **SRE**<br>- 📫 Contact: [philiplekan88@gmail.com](mailto:philiplekan88@gmail.com)
+<br><br>- 😊 Pronouns: He/Him  <br>- 🎓 Diploma in Software Engineering from [AltSchool Africa](https://altschoolafrica.com/schools/engineering) (Class of 2022)  <br>- 🌱 Currently learning **Go** and **Python (Django)**  <br>- 💻 Tech Stack: **Node.js**, **TypeScript**, **NestJS**, **MySQL**, **Redis**, **Kafka**  <br>- 💡 Interests: Open Source, Hackathons, Internships, Junior & Mid-level Developer roles  <br>- 💼 Career Goals: **Backend Developer** / **Software Engineer**  / **DevOps** / **SRE**<br>- 📫 Contact: [philiplekan88@gmail.com](mailto:philiplekan88@gmail.com)
 
 
 ## 🌐 Socials:
